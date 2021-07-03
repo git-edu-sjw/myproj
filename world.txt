@@ -1,4 +1,6 @@
 workA>>>
 world
 
-hello world
+hello world 
+CONFLICT situation 
+
