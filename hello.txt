@@ -1,3 +1,4 @@
 hello~~~~
-first file~~
-update
+first file~~!
+
+stash!!
