@@ -2,3 +2,5 @@ hello~~~~
 first file~~!
 
 stash~~
+
+stash use ~~~
